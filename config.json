@@ -1,0 +1,29 @@
+{
+  "name": "空濛集",
+  "title": "空濛集",
+  "description": "行至空濛深处，拾掇世间悲欢。",
+  "url": "https://gallery.hyli.xyz/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "Lyxot",
+    "url": "https://hyli.xyz/",
+    "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1169942595@qq.com&spec=640"
+  },
+  "social": {
+    "github": "Lyxot",
+    "twitter": ""
+  },
+  "feed": {
+    "folo": {
+      "challenge": {
+        "feedId": "",
+        "userId": ""
+      }
+    }
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "builtin",
+  "mapProjection": "mercator"
+}
